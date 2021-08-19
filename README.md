@@ -1,2 +1,2 @@
-# cosong
-cosong XPRIZE Carbon Removal
+# Cosong
+## XPRIZE Carbon Removal Competition
